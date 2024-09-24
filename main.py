@@ -5,4 +5,3 @@ def bar():
 def fun():
     pass
 
-
