@@ -1,6 +1,7 @@
-def fun():
-    ...
-
-
 def bar():
     pass
+
+
+def fun():
+    pass
+
